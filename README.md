@@ -2,10 +2,11 @@
 
 ## GUI Tools
 
-| Binary  | Name      | Use             |
-| -       | -         | -               |
-| ghb     | HandBrake | Compress videos |
-| hexchat | HexChat   | Chat using IRC  |
+| Binary    | Name      | Use               |
+| -         | -         | -                 |
+| ghb       | HandBrake | Compress videos   |
+| polyphone | Polyphone | Create soundfonts |
+| hexchat   | HexChat   | Chat using IRC    |
 
 ## CLI Tools
 
