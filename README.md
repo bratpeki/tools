@@ -4,12 +4,14 @@
 
 ### Audio/Video
 
-| Binary           | Name                     | Use                                 |
-| -                | -                        | -                                   |
-| `ghb`            | HandBrake                | Compress videos                     |
-| `helvum`         | Helvum                   | Virtual cable system for Pipewire   |
-| `pagraphcontrol` | PulseAudio Graph Control | Virtual cable system for PulseAudio |
-| `polyphone`      | Polyphone                | Create soundfonts                   |
+| Binary           | Name                     | Use                                             |
+| -                | -                        | -                                               |
+| `avidemux`       | Avidemux                 | Non-linear video editor, useful for datamoshing |
+| `ghb`            | HandBrake                | Compress videos                                 |
+| `helvum`         | Helvum                   | Virtual cable system for Pipewire               |
+| `pagraphcontrol` | PulseAudio Graph Control | Virtual cable system for PulseAudio             |
+| `polyphone`      | Polyphone                | Create soundfonts                               |
+| `sclang`         | SuperCollider            | Sound generation engine                         |
 
 ### Internet
 
@@ -47,6 +49,6 @@
 
 ### Scripting
 
-| Binary    | Name    | Use                                                                |
-| -         | -       | -                                                                  |
-| `xdotool` | xdotool | Emulate typing, mouse clicks and other computer actions via `Xorg` |
+| Binary    | Name    | Use                                                             |
+| -         | -       | -                                                               |
+| `xdotool` | xdotool | Emulate typing, mouse clicks and other computer actions via `X` |
