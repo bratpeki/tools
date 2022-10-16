@@ -4,51 +4,86 @@
 
 ### Audio/Video
 
-| Binary           | Name                     | Use                                             |
-| -                | -                        | -                                               |
-| `avidemux`       | Avidemux                 | Non-linear video editor, useful for datamoshing |
-| `ghb`            | HandBrake                | Compress videos                                 |
-| `helvum`         | Helvum                   | Virtual cable system for Pipewire               |
-| `pagraphcontrol` | PulseAudio Graph Control | Virtual cable system for PulseAudio             |
-| `polyphone`      | Polyphone                | Create soundfonts                               |
-| `sclang`         | SuperCollider            | Sound generation engine                         |
+#### Audio production tools
+
+| Name          | Binary      | Use                     |
+| -             | -           | -                       |
+| Polyphone     | `polyphone` | Create soundfonts       |
+| SuperCollider | `scide`     | Sound generation engine |
+
+#### DAWs
+
+| Name   | Binary    | Use                                                                |
+| -      | -         | -                                                                  |
+| Ardour | `ardour6` | Professional Digital Audio Workstation with a steep learning curve |
+| LMMS   | `lmms`    | Digital Audio Workstation most similar to FL Studio                |
+
+#### Trackers
+
+| Name                 | Binary      | Use                                                    |
+| -                    | -           | -                                                      |
+| Fasttracker II clone | `ft2-clone` | A portable Fasttracker II clone in C using SDL 2       |
+| ProTracker 2 clone   | `pt2-clone` | A portable ProTracker 2 (v2.3D) clone in C using SDL 2 |
+
+#### Video editors
+
+| Name                     | Binary           | Use                                             |
+| -                        | -                | -                                               |
+| Avidemux                 | `avidemux`       | Non-linear video editor, useful for datamoshing |
+| Kdenlive                 | `kdenlive`       | KDE's video editor                              |
+
+#### Video editing tools
+
+| Name      | Binary | Use             |
+| -         | -      | -               |
+| HandBrake | `ghb`  | Compress videos |
+
+#### Virtual cable managers
+
+| Name                     | Binary           | Use                                 |
+| -                        | -                | -                                   |
+| Helvum                   | `helvum`         | Virtual cable system for Pipewire   |
+| PulseAudio Graph Control | `pagraphcontrol` | Virtual cable system for PulseAudio |
 
 ### Internet
 
-| Binary    | Name    | Use            |
-| -         | -       | -              |
-| `hexchat` | HexChat | Chat using IRC |
+| Name    | Binary    | Use            |
+| -       | -         | -              |
+| HexChat | `hexchat` | Chat using IRC |
 
 ## CLI Tools
 
 ### Audio/Video
 
-| Binary      | Name     | Use                       |
-| -           | -        | -                         |
-| `enscribe`  | Enscribe | Convert images into sound |
-| `espeak-ng` | ESpeak   | Text-to-speech engine     |
+#### Audio production tools
+
+| Name          | Binary      | Use                       |
+| -             | -           | -                         |
+| ESpeak        | `espeak-ng` | Text-to-speech engine     |
+| Enscribe      | `enscribe`  | Convert images into sound |
+| SuperCollider | `sclang`    | Sound generation engine   |
 
 ### Entertainment
 
-| Binary           | Name           | Use                               |
-| -                | -              | -                                 |
-| `terminal-mines` | terminal-mines | An ncurses-based minesweeper game |
-| `tint`           | TINT           | TINT is not Tetris!               |
+| Name           | Binary           | Use                               |
+| -              | -                | -                                 |
+| terminal-mines | `terminal-mines` | An ncurses-based minesweeper game |
+| TINT           | `tint`           | TINT is not Tetris!               |
 
 ### Image
 
-| Binary | Name | Use                              |
-| -      | -    | -                                |
-| `jp2a` | JP2A | Convert JPEG images to ASCII art |
+| Name | Binary | Use                              |
+| -    | -      | -                                |
+| JP2A | `jp2a` | Convert JPEG images to ASCII art |
 
 ### Internet
 
-| Binary       | Name       | Use                     |
-| -            | -          | -                       |
-| `gallery-dl` | gallery-dl | Download sets of images |
+| Name       | Binary       | Use                     |
+| -          | -            | -                       |
+| gallery-dl | `gallery-dl` | Download sets of images |
 
 ### Scripting
 
-| Binary    | Name    | Use                                                             |
-| -         | -       | -                                                               |
-| `xdotool` | xdotool | Emulate typing, mouse clicks and other computer actions via `X` |
+| Name    | Binary    | Use                                                             |
+| -       | -         | -                                                               |
+| xdotool | `xdotool` | Emulate typing, mouse clicks and other computer actions via `X` |
