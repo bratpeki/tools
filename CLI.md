@@ -4,7 +4,7 @@
 
 ### Audio production tools
 
-| Name          | Binary      | Use                       |
+| Name          | Binary      | Description               |
 | -             | -           | -                         |
 | ESpeak        | `espeak-ng` | Text-to-speech engine     |
 | Enscribe      | `enscribe`  | Convert images into sound |
@@ -12,25 +12,25 @@
 
 ## Entertainment
 
-| Name           | Binary           | Use                               |
+| Name           | Binary           | Description                       |
 | -              | -                | -                                 |
 | terminal-mines | `terminal-mines` | An ncurses-based minesweeper game |
 | TINT           | `tint`           | TINT is not Tetris!               |
 
 ## Image
 
-| Name | Binary | Use                              |
+| Name | Binary | Description                      |
 | -    | -      | -                                |
 | JP2A | `jp2a` | Convert JPEG images to ASCII art |
 
 ## Internet
 
-| Name       | Binary       | Use                     |
+| Name       | Binary       | Description             |
 | -          | -            | -                       |
 | gallery-dl | `gallery-dl` | Download sets of images |
 
 ## Scripting
 
-| Name    | Binary    | Use                                                             |
+| Name    | Binary    | Description                                                     |
 | -       | -         | -                                                               |
 | xdotool | `xdotool` | Emulate typing, mouse clicks and other computer actions via `X` |
