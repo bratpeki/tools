@@ -8,6 +8,7 @@
 | - | - | - |
 | [Polyphone](https://github.com/davy7125/polyphone) | `polyphone` | Create soundfonts |
 | [SuperCollider](https://github.com/supercollider/supercollider) | `scide` | Sound generation engine |
+| [WaoN](https://github.com/kichiki/WaoN) | `gwaon` | A Wave-to-Notes transcriber (GUI) |
 
 ### DAWs
 

@@ -9,6 +9,7 @@
 | [ESpeak](https://github.com/espeak-ng/espeak-ng) | `espeak-ng` | Text-to-speech engine |
 | [Enscribe](https://github.com/sysrq-reisub/enscribe) | `enscribe` | Convert images into sound |
 | [SuperCollider](https://github.com/supercollider/supercollider) | `sclang` | Sound generation engine |
+| [WaoN](https://github.com/kichiki/WaoN) | `waon` | A Wave-to-Notes transcriber |
 
 ## Entertainment
 
