@@ -45,6 +45,12 @@
 | [Helvum](https://gitlab.freedesktop.org/pipewire/helvum) | `helvum` | Virtual cable system for Pipewire |
 | [PulseAudio Graph Control](https://github.com/futpib/pagraphcontrol) | `pagraphcontrol` | Virtual cable system for PulseAudio |
 
+## Coding and programming
+
+| Name | Binary | Description |
+| - | - | - |
+| [Bless](https://github.com/afrantzis/bless) | `bless` | A fully featured hex editor written in C# |
+
 ## Internet
 
 | Name | Binary | Description |
