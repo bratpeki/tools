@@ -2,40 +2,40 @@
 Table of contents:
 
 - [CLI](#cli)
-	- [Audio](#audio)
-		- [Sound file manipulation programs](#sound-file-manipulation-programs)
-		- [Sound generation engines](#sound-generation-engines)
+	- [Audio](#audio-cli)
+		- [Sound file manipulation programs](#sound-file-manipulation-programs-cli)
+		- [Sound generation engines](#sound-generation-engines-cli)
 		- [Text-to-speech engines](#text-to-speech-engines)
 	- [Entertainment](#entertainment)
 	- [Image](#image)
-	- [Internet](#internet)
+	- [Internet](#internet-cli)
 	- [Scripting](#scripting)
 - [GUI](#gui)
-	- [Audio](#audio-2)
+	- [Audio](#audio-gui)
 		- [DAWs](#daws)
-		- [Sound file manipulation programs]()
-		- [Sound generation engines]()
-		- [Soundfont editors]()
-		- [Trackers]()
-		- [Virtual cable managers]()
-	- [Coding and programming]()
-	- [Internet]()
-	- [Video]()
-		- [Video editors]()
-		- [Video file manipulation programs]()
+		- [Sound file manipulation programs](#sound-file-manipulation-programs-gui)
+		- [Sound generation engines](#sound-generation-engines)
+		- [Soundfont editors](#soundfont-editors)
+		- [Trackers](#trackers)
+		- [Virtual cable managers](#virutal-cable-managers)
+	- [Coding and programming](#coding-and-programming)
+	- [Internet](#internet-gui)
+	- [Video](#video)
+		- [Video editors](#video-editors)
+		- [Video file manipulation programs](#video-file-manipulation-programs)
 
 # CLI
 
-## Audio
+## Audio (CLI)
 
-### Sound file manipulation programs
+### Sound file manipulation programs (CLI)
 
 | Name | Binary | Description |
 | - | - | - |
 | [Enscribe](https://github.com/sysrq-reisub/enscribe) | `enscribe` | Convert images into sound |
 | [WaoN](https://github.com/kichiki/WaoN) | `waon` | A Wave-to-Notes transcriber |
 
-### Sound generation engines
+### Sound generation engines (CLI)
 
 | Name | Binary | Description |
 | - | - | - |
@@ -61,7 +61,7 @@ Table of contents:
 | - | - | - |
 | [JP2A](https://github.com/cslarsen/jp2a) | `jp2a` | Convert JPEG images to ASCII art |
 
-## Internet
+## Internet (CLI)
 
 | Name | Binary | Description |
 | - | - | - |
@@ -76,7 +76,7 @@ Table of contents:
 
 # GUI
 
-## Audio {#audio-gui}
+## Audio (GUI)
 
 ### DAWs
 
@@ -85,13 +85,13 @@ Table of contents:
 | [Ardour](https://github.com/Ardour/ardour) | `ardour7` | Professional Digital Audio Workstation with a steep learning curve |
 | [LMMS](https://github.com/LMMS/lmms) | `lmms` | Digital Audio Workstation most similar to FL Studio |
 
-### Sound file manipulation programs
+### Sound file manipulation programs (GUI)
 
 | Name | Binary | Description |
 | - | - | - |
 | [WaoN](https://github.com/kichiki/WaoN) | `gwaon` | A Wave-to-Notes transcriber (GUI) |
 
-### Sound generation engines
+### Sound generation engines (GUI)
 
 | Name | Binary | Description |
 | - | - | - |
@@ -124,7 +124,7 @@ Table of contents:
 | - | - | - |
 | [Bless](https://github.com/afrantzis/bless) | `bless` | A fully featured hex editor written in C# |
 
-## Internet
+## Internet (GUI)
 
 | Name | Binary | Description |
 | - | - | - |
