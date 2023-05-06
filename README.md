@@ -1,7 +1,7 @@
 
 Table of contents:
 
-- [CLI](./README.md#CLI)
+- [CLI](#CLI)
 	- [Audio]()
 		- [Sound file manipulation programs]()
 		- [Sound generation engines]()
