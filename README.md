@@ -1,3 +1,29 @@
+
+Table of contents:
+
+- [CLI](./README.md#CLI)
+	- [Audio]()
+		- [Sound file manipulation programs]()
+		- [Sound generation engines]()
+		- [Text-to-speech engines]()
+	- [Entertainment]()
+	- [Image]()
+	- [Internet]()
+	- [Scripting]()
+- [GUI]()
+	- [Audio]()
+		- [DAWs]()
+		- [Sound file manipulation programs]()
+		- [Sound generation engines]()
+		- [Soundfont editors]()
+		- [Trackers]()
+		- [Virtual cable managers]()
+	- [Coding and programming]()
+	- [Internet]()
+	- [Video]()
+		- [Video editors]()
+		- [Video file manipulation programs]()
+
 # CLI
 
 ## Audio
