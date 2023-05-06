@@ -13,6 +13,7 @@
 
 | Name | Binary | Description |
 | - | - | - |
+| [Csound](https://github.com/csound/csound) | `csound` | A sound and music computing system written in C |
 | [SuperCollider](https://github.com/supercollider/supercollider) | `sclang` | Sound generation engine |
 
 ### Text-to-speech engines
@@ -39,12 +40,13 @@
 | Name | Binary | Description |
 | - | - | - |
 | [gallery-dl](https://github.com/mikf/gallery-dl) | `gallery-dl` | Download batches of images |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | `yt-dlp` | A more actively maintained `youtube-dl` fork |
 
 ## Scripting
 
 | Name | Binary | Description |
 | - | - | - |
-| [xdotool](https://github.com/jordansissel/xdotool) | `xdotool` | Emulate typing, mouse clicks and other computer actions via `X` |
+| [xdotool](https://github.com/jordansissel/xdotool) | `xdotool` | Emulate typing, mouse clicks and other computer actions in `X` |
 
 # GUI
 
