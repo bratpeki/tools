@@ -76,7 +76,7 @@ Table of contents:
 
 # GUI
 
-## Audio
+## Audio {#audio-gui}
 
 ### DAWs
 
