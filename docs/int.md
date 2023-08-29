@@ -12,4 +12,4 @@
 | Name | Binary | Description |
 | - | - | - |
 | [HexChat](https://github.com/hexchat/hexchat) | `hexchat` | Chat using IRC |
-| [Qutebrowser](https://github.com/qutebrowser/qutebrowser) | `qutebroser` | A keyboard-driven, vim-like browser based on Python and Qt |
+| [Qutebrowser](https://github.com/qutebrowser/qutebrowser) | `qutebrowser` | A keyboard-driven, vim-like browser based on Python and Qt |
