@@ -43,6 +43,7 @@ VST
 ## Plugins
 
 | Name | Format(s) | Description |
+| - | - | - |
 | [Autotalent](http://tombaran.info/autotalent.html) | LADSPA | Real-time pitch-correction plugin |
 | [Calf Studio Gear](https://github.com/calf-studio-gear/calf) | LV2, Standalone (JACK) | Plugin suite with a very elegant interface |
 | [Helm](https://github.com/mtytel/helm) | AAX, AU, LV2, Standalone, VST | Polyphonic softsynth plugin focused on modulation |
