@@ -45,10 +45,21 @@ VST
 | Name | Format(s) | Description |
 | - | - | - |
 | [Autotalent](http://tombaran.info/autotalent.html) | LADSPA | Real-time pitch-correction plugin |
-| [Calf Studio Gear](https://github.com/calf-studio-gear/calf) | LV2, Standalone (JACK) | Plugin suite with a very elegant interface |
 | [Helm](https://github.com/mtytel/helm) | AAX, AU, LV2, Standalone, VST | Polyphonic softsynth plugin focused on modulation |
-| [LSP Plguins](https://github.com/sadko4u/lsp-plugins) | CLAP, LADSPA, LV2, LinuxVST, Standalone (JACK) | High-quality audio plugin suite for GNU/Linux |
 | [TalentedHack](https://github.com/jeremysalwen/TalentedHack) | LV2 | LV2 port of [Autotalent](http://tombaran.info/autotalent.html) |
 | [ZynAddSubFX](https://github.com/zynaddsubfx/zynaddsubfx) | DSSI, LV2, VST | One of the most powerful FOSS softsynth plugins |
 | [samplv1](https://github.com/rncbc/samplv1) | LV2, Standalone (JACK) | Old-school polyphonic sampler |
+
+### Plugin suites
+
+| Name | Format(s) | Description |
+| - | - | - |
+| [LSP Plguins](https://github.com/sadko4u/lsp-plugins) | CLAP, LADSPA, LV2, LinuxVST, Standalone (JACK) | High-quality audio plugin suite for GNU/Linux |
+| [MDA effects (LV2)](https://drobilla.net/software/mda-lv2.html) | LV2 | Paul Kellett's plugins, rewritten for the LV2 format. |
+| [SWH plugins (LADSPA)](https://github.com/swh/ladspa) | LADSPA | Legendary plugins by [Steve Harris](https://github.com/swh). |
+| [SWH plugins (LV2)](https://github.com/swh/lv2) | LV2 | Legendary plugins by [Steve Harris](https://github.com/swh). |
+| [TAP plugins (LADSPA)](https://github.com/tomscii/tap-plugins) | LADSPA | Tom's Audio Processing plugins. |
+| [TAP plugins (LV2)](https://github.com/moddevices/tap-lv2) | LV2 | Tom's Audio Processing plugins, rewritten for the LV2 format. |
+| [CAPS](http://quitte.de/dsp/caps.html) | LADSPA | Guitar amps, noisegates, and so on. |
+| [Calf Studio Gear](https://github.com/calf-studio-gear/calf) | LV2, Standalone (JACK) | Plugin suite with a very elegant interface |
 | [x42-plugins](https://github.com/x42/x42-plugins) | LV2 | Professional audio plugins with a simple GUI, made with [Ardour](https://github.com/Ardour/ardour) in mind |
