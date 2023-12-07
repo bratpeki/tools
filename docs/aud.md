@@ -2,29 +2,29 @@
 
 ## CLI
 
-| Name | Binary | Description |
-| - | - | - |
-| [Csound](https://github.com/csound/csound) | `csound` | A sound and music computing system written in C |
-| [ESpeak](https://github.com/espeak-ng/espeak-ng) | `espeak-ng` | Text-to-speech engine |
-| [Enscribe](https://github.com/sysrq-reisub/enscribe) | `enscribe` | Convert images into sound |
-| [SuperCollider](https://github.com/supercollider/supercollider) | `sclang` | Sound generation engine |
-| [WaoN](https://github.com/kichiki/WaoN) | `waon` | A Wave-to-Notes transcriber |
+| Name | Description |
+| - | - |
+| [Csound](https://github.com/csound/csound) | A sound and music computing system written in C |
+| [ESpeak](https://github.com/espeak-ng/espeak-ng) | Text-to-speech engine |
+| [Enscribe](https://github.com/sysrq-reisub/enscribe) | Convert images into sound |
+| [SuperCollider](https://github.com/supercollider/supercollider) | Sound generation engine |
+| [WaoN](https://github.com/kichiki/WaoN) | A Wave-to-Notes transcriber |
 
 ## GUI
 
-| Name | Binary | Description |
-| - | - | - |
-| [Ardour](https://github.com/Ardour/ardour) | `ardour7` | Professional Digital Audio Workstation with a steep learning curve |
-| [Fasttracker II clone](https://github.com/8bitbubsy/ft2-clone) | `ft2-clone` | A portable Fasttracker II clone in C using SDL 2 |
-| [Helvum](https://gitlab.freedesktop.org/pipewire/helvum) | `helvum` | Virtual cable system for Pipewire |
-| [LMMS](https://github.com/LMMS/lmms) | `lmms` | Digital Audio Workstation most similar to FL Studio |
-| [MilkyTracker](https://github.com/milkytracker/MilkyTracker) | `milkytracker` | An open source, multi-platform tracker that replicates the "feel" of Fasttracker II |
-| [Polyphone](https://github.com/davy7125/polyphone) | `polyphone` | Create soundfonts |
-| [ProTracker 2 clone](https://github.com/8bitbubsy/pt2-clone) | `pt2-clone` | A portable ProTracker 2 [v2.3D] clone in C using SDL 2 |
-| [PulseAudio Graph Control](https://github.com/futpib/pagraphcontrol) | `pagraphcontrol` | Virtual cable system for PulseAudio |
-| [QJackCtl](https://github.com/rncbc/qjackctl) | `qjackctl` | JACK Qt GUI interface |
-| [SuperCollider](https://github.com/supercollider/supercollider) | `scide` | Sound generation engine |
-| [WaoN](https://github.com/kichiki/WaoN) | `gwaon` | A Wave-to-Notes transcriber (GUI) |
+| Name | Description |
+| - | - |
+| [Ardour](https://github.com/Ardour/ardour) | Professional Digital Audio Workstation with a steep learning curve |
+| [Fasttracker II clone](https://github.com/8bitbubsy/ft2-clone) | A portable Fasttracker II clone in C using SDL 2 |
+| [Helvum](https://gitlab.freedesktop.org/pipewire/helvum) | Virtual cable system for Pipewire |
+| [LMMS](https://github.com/LMMS/lmms) | Digital Audio Workstation most similar to FL Studio |
+| [MilkyTracker](https://github.com/milkytracker/MilkyTracker) | An open source, multi-platform tracker that replicates the "feel" of Fasttracker II |
+| [Polyphone](https://github.com/davy7125/polyphone) | Create soundfonts |
+| [ProTracker 2 clone](https://github.com/8bitbubsy/pt2-clone) | A portable ProTracker 2 [v2.3D] clone in C using SDL 2 |
+| [PulseAudio Graph Control](https://github.com/futpib/pagraphcontrol) | Virtual cable system for PulseAudio |
+| [QJackCtl](https://github.com/rncbc/qjackctl) | JACK Qt GUI interface |
+| [SuperCollider](https://github.com/supercollider/supercollider) | Sound generation engine |
+| [WaoN](https://github.com/kichiki/WaoN) | A Wave-to-Notes transcriber (GUI) |
 
 <!--
 These plugin formats are sorted alphabetically, and help me when doing the same in the table below:
