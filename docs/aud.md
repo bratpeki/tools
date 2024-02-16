@@ -54,12 +54,14 @@ VST
 
 | Name | Format(s) | Description |
 | - | - | - |
-| [LSP Plguins](https://github.com/sadko4u/lsp-plugins) | CLAP, LADSPA, LV2, LinuxVST, Standalone (JACK) | High-quality audio plugin suite for GNU/Linux |
-| [MDA effects (LV2)](https://drobilla.net/software/mda-lv2.html) | LV2 | Paul Kellett's plugins, rewritten for the LV2 format |
+| [Calf Studio Gear](https://github.com/calf-studio-gear/calf) | LV2, Standalone (JACK) | Plugin suite with a very elegant interface |
+| [x42-plugins](https://github.com/x42/x42-plugins) | LV2 | Professional audio plugins with a simple GUI, made with [Ardour](https://github.com/Ardour/ardour) in mind |
 | [SWH plugins (LADSPA)](https://github.com/swh/ladspa) | LADSPA | Legendary plugins by [Steve Harris](https://github.com/swh) |
 | [SWH plugins (LV2)](https://github.com/swh/lv2) | LV2 | Legendary plugins by [Steve Harris](https://github.com/swh) |
+| [MDA effects (LV2)](https://drobilla.net/software/mda-lv2.html) | LV2 | Paul Kellett's plugins, rewritten for the LV2 format |
+| [ZamPlugins](https://github.com/zamaudio/zam-plugins) | LASDPA, LV2, Standalone (JACK), VST | Collection of LADSPA/LV2/VST/JACK audio plugins for high-quality processing |
 | [TAP plugins (LADSPA)](https://github.com/tomscii/tap-plugins) | LADSPA | Tom's Audio Processing plugins |
 | [TAP plugins (LV2)](https://github.com/moddevices/tap-lv2) | LV2 | Tom's Audio Processing plugins, rewritten for the LV2 format |
 | [CAPS](http://quitte.de/dsp/caps.html) | LADSPA | Guitar amps, noisegates, and so on |
-| [Calf Studio Gear](https://github.com/calf-studio-gear/calf) | LV2, Standalone (JACK) | Plugin suite with a very elegant interface |
-| [x42-plugins](https://github.com/x42/x42-plugins) | LV2 | Professional audio plugins with a simple GUI, made with [Ardour](https://github.com/Ardour/ardour) in mind |
+| [The Infamous Plugins](https://github.com/ssj71/infamousPlugins) | LV2 | Very out-there suite, great "power up" and "power cut" plugins |
+| [LSP Plguins](https://github.com/sadko4u/lsp-plugins) | CLAP, LADSPA, LV2, LinuxVST, Standalone (JACK) | High-quality audio plugin suite for GNU/Linux |
