@@ -27,6 +27,8 @@
 | [WaoN](https://github.com/kichiki/WaoN) | A Wave-to-Notes transcriber (GUI) |
 
 <!--
+TODO: Generally revamp this. Mac, Linux and Windows VSTs are all a thing. VST can be v2 or v3.
+
 These plugin formats are sorted alphabetically, and help me when doing the same in the table below:
 
 AAX
@@ -54,14 +56,15 @@ VST
 
 | Name | Format(s) | Description |
 | - | - | - |
+| [Airwindows](https://github.com/airwindows/airwindows) | Linux, Mac and Windows VST2 | Incredibly efficient and simple no-GUI plugin suite. Great for experimental work. [Homepage](https://www.airwindows.com/). [Mediafire collection of all plugins](https://www.mediafire.com/folder/kua5r9x27mwrk/Plugins_Backup). |
+| [CAPS](http://quitte.de/dsp/caps.html) | LADSPA | Guitar amps, noisegates, and so on |
 | [Calf Studio Gear](https://github.com/calf-studio-gear/calf) | LV2, Standalone (JACK) | Plugin suite with a very elegant interface |
-| [x42-plugins](https://github.com/x42/x42-plugins) | LV2 | Professional audio plugins with a simple GUI, made with [Ardour](https://github.com/Ardour/ardour) in mind |
+| [LSP Plguins](https://github.com/sadko4u/lsp-plugins) | CLAP, LADSPA, LV2, LinuxVST, Standalone (JACK) | High-quality audio plugin suite for GNU/Linux |
+| [MDA effects (LV2)](https://drobilla.net/software/mda-lv2.html) | LV2 | Paul Kellett's plugins, rewritten for the LV2 format |
 | [SWH plugins (LADSPA)](https://github.com/swh/ladspa) | LADSPA | Legendary plugins by [Steve Harris](https://github.com/swh) |
 | [SWH plugins (LV2)](https://github.com/swh/lv2) | LV2 | Legendary plugins by [Steve Harris](https://github.com/swh) |
-| [MDA effects (LV2)](https://drobilla.net/software/mda-lv2.html) | LV2 | Paul Kellett's plugins, rewritten for the LV2 format |
-| [ZamPlugins](https://github.com/zamaudio/zam-plugins) | LASDPA, LV2, Standalone (JACK), VST | Collection of LADSPA/LV2/VST/JACK audio plugins for high-quality processing |
 | [TAP plugins (LADSPA)](https://github.com/tomscii/tap-plugins) | LADSPA | Tom's Audio Processing plugins |
 | [TAP plugins (LV2)](https://github.com/moddevices/tap-lv2) | LV2 | Tom's Audio Processing plugins, rewritten for the LV2 format |
-| [CAPS](http://quitte.de/dsp/caps.html) | LADSPA | Guitar amps, noisegates, and so on |
 | [The Infamous Plugins](https://github.com/ssj71/infamousPlugins) | LV2 | Very out-there suite, great "power up" and "power cut" plugins |
-| [LSP Plguins](https://github.com/sadko4u/lsp-plugins) | CLAP, LADSPA, LV2, LinuxVST, Standalone (JACK) | High-quality audio plugin suite for GNU/Linux |
+| [ZamPlugins](https://github.com/zamaudio/zam-plugins) | LASDPA, LV2, Standalone (JACK), VST | Collection of LADSPA/LV2/VST/JACK audio plugins for high-quality processing |
+| [x42-plugins](https://github.com/x42/x42-plugins) | LV2 | Professional audio plugins with a simple GUI, made with [Ardour](https://github.com/Ardour/ardour) in mind |
